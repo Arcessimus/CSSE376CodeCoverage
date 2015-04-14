@@ -1,0 +1,9 @@
+1) 94.1% and 58.3% respectively
+2) 71.4% and 100% respectively
+3) getDiscount()
+4) make sure to add some discounts to the service locator class while testing
+5) The user class has to call methods from those other classes during testing
+6) It doesn't double the miles of a flight less than 5000 miles.
+7) To get 100% statement coverage, the test has to step into the if statement. Thus, the test
+	will only reflect a case that steps into the if statement, which means that only
+	flights greater than 5000 miles will be tested.
